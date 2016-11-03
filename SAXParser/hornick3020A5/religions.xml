@@ -1,0 +1,1609 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- 
+ Alex Hornick CSCI 3020 Section 11 
+ Fall 2016 
+ Assignment 5 
+ -->
+<religions>
+	<country>
+		<country-name>Albania</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Albanian Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Andorra</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Austria</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Belarus</country-name>
+		<religion-list>
+			<religion>Eastern Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Belgium</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Bosnia and Herzegovina</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Protestant</religion>
+			<religion>Orthodox</religion>
+			<religion>Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Bulgaria</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Jewish</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Bulgarian Orthodox</religion>
+			<religion>Uniate Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Croatia</country-name>
+		<religion-list>
+			<religion>Protestant</religion>
+			<religion>Orthodox</religion>
+			<religion>Catholic</religion>
+			<religion>Slavic Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Czech Rep.</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Denmark</country-name>
+		<religion-list>
+			<religion>Evangelical Lutheran</religion>
+			<religion>Protestant Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Estonia</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Faroe Islands</country-name>
+		<religion-list>
+			<religion>Evangelical Lutheran</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Finland</country-name>
+		<religion-list>
+			<religion>Evangelical Lutheran</religion>
+			<religion>Greek Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>France</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Jewish</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Germany</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Gibraltar</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Jewish</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Greece</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Greek Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Guernsey</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Vatican City</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Hungary</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Lutheran</religion>
+			<religion>Calvinist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Iceland</country-name>
+		<religion-list>
+			<religion>Evangelical Lutheran</religion>
+			<religion>Protestant Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Ireland</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Anglican</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Italy</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Jersey</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Latvia</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Liechtenstein</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Lithuania</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Luxembourg</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant Jewish</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Macedonia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Eastern Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Malta</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Man</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Moldova</country-name>
+		<religion-list>
+			<religion>Jewish</religion>
+			<religion>Eastern Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Monaco</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Netherlands</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Norway</country-name>
+		<religion-list>
+			<religion>Evangelical Lutheran</religion>
+			<religion>Protestant Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Poland</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Portugal</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Romania</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Romanian Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Russia</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>San Marino</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Serbia and Montenegro</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Slovakia</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Slovenia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Spain</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Svalbard</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Sweden</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Evangelical Lutheran</religion>
+			<religion>Pentecostal</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Switzerland</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Ukraine</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>United Kingdom</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Afghanistan</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+			<religion>Shia Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Armenia</country-name>
+		<religion-list>
+			<religion>Armenian Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Azerbaijan</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Armenian Orthodox</religion>
+			<religion>Russian Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Bahrain</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+			<religion>Shia Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Bangladesh</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Bhutan</country-name>
+		<religion-list>
+			<religion>Lamaistic Buddhism</religion>
+			<religion>Indian- Nepalese-influenced Hinduism</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Brunei</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+			<religion>Buddhism</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Myanmar</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Buddhist</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cambodia</country-name>
+		<religion-list>
+			<religion>Theravada Buddhism</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>China</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cyprus</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Greek Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Georgia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Armenian Apostolic</religion>
+			<religion>Christian Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>India</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Buddhist</religion>
+			<religion>Christian</religion>
+			<religion>Hindu</religion>
+			<religion>Sikh</religion>
+			<religion>Jains</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Indonesia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Buddhist</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Iran</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+			<religion>Shia Muslim</religion>
+			<religion>Bahai</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Iraq</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Israel</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+			<religion>Islam</religion>
+			<religion>Druze</religion>
+			<religion>Judaism</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Japan</country-name>
+		<religion-list>
+			<religion>Shinto Buddhist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Jordan</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Kazakstan</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Protestant</religion>
+			<religion>Russian Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Korea</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Korea</country-name>
+		<religion-list>
+			<religion>Buddhism</religion>
+			<religion>Christianity</religion>
+			<religion>Confucianism</religion>
+			<religion>Chondogyo</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Kuwait</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Kyrgyzstan</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Laos</country-name>
+		<religion-list>
+			<religion>Buddhist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Lebanon</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+			<religion>Islam</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Macau</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Buddhist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Malaysia</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Mongolia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Nepal</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Buddhist</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Oman</country-name>
+		<religion-list>
+			<religion>Ibadhi Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Pakistan</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Papua New Guinea</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Lutheran</religion>
+			<religion>Anglican</religion>
+			<religion>Seventh-Day Adventist</religion>
+			<religion>Presbyterian/Methodist/London Missionary Society</religion>
+			<religion>Evangelical Alliance</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Philippines</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Buddhist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Qatar</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Saudi Arabia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Singapore</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Sri Lanka</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Buddhist</religion>
+			<religion>Christian</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Syria</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Sunni Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Taiwan</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+			<religion>Taoist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Tajikistan</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+			<religion>Shia Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Thailand</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Buddhism</religion>
+			<religion>Christianity</religion>
+			<religion>Hinduism</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Turkey</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Turkmenistan</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Eastern Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>UAE</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Uzbekistan</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Eastern Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Vietnam</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Yemen</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Anguilla</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Anglican</religion>
+			<religion>Baptist</religion>
+			<religion>Seventh-Day Adventist</religion>
+			<religion>Methodist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Antigua and Barbuda</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Argentina</country-name>
+		<religion-list>
+			<religion>Jewish</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Aruba</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Bahamas</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Anglican</religion>
+			<religion>Baptist</religion>
+			<religion>Methodist</religion>
+			<religion>Church God</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Barbados</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Belize</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Bolivia</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Brazil</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>British Virgin Islands</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Canada</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Anglican</religion>
+			<religion>United Church</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cayman Islands</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Chile</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Colombia</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Costa Rica</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cuba</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Dominica</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Dominican Republic</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Ecuador</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>El Salvador</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>French Guiana</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Grenada</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Guadeloupe</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Hindu African</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Guatemala</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Guyana</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Haiti</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Honduras</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Jamaica</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Martinique</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Hindu African</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Mexico</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Montserrat</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Netherlands Antilles</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Nicaragua</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Panama</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Paraguay</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Peru</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Puerto Rico</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Saint Kitts and Nevis</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Saint Lucia</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Anglican</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Saint Pierre and Miquelon</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Saint Vincent and the Grenadines</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Suriname</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Trinidad and Tobago</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Anglican</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Turks and Caicos Islands</country-name>
+		<religion-list>
+			<religion>Anglican</religion>
+			<religion>Baptist</religion>
+			<religion>Seventh-Day Adventist</religion>
+			<religion>Methodist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>USA</country-name>
+		<religion-list>
+			<religion>Jewish</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Uruguay</country-name>
+		<religion-list>
+			<religion>Jewish</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Venezuela</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Virgin Islands</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Baptist</religion>
+			<religion>Episcopalian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>American Samoa</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Christian Congregationalist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Australia</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Anglican</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Bermuda</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Anglican</religion>
+			<religion>Seventh-Day Adventist</religion>
+			<religion>Methodist</religion>
+			<religion>African Methodist Episcopal</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Christmas Island</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Buddhist</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cocos Islands</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cook Islands</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Falkland Islands</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Fiji</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>French Polynesia</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Greenland</country-name>
+		<religion-list>
+			<religion>Evangelical Lutheran</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Guam</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Kiribati</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Mormon</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Maldives</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Marshall Islands</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Mauritius</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+			<religion>Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Micronesia</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Nauru</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>New Caledonia</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>New Zealand</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Anglican</religion>
+			<religion>Baptist</religion>
+			<religion>Methodist</religion>
+			<religion>Presbyterian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Niue</country-name>
+		<religion-list>
+			<religion>Morman</religion>
+			<religion>Ekalesia Nieue</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Norfolk Island</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Anglican</religion>
+			<religion>Seventh-Day Adventist</religion>
+			<religion>Uniting Church Australia</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Northern Mariana Islands</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Palau</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Pitcairn Islands</country-name>
+		<religion-list>
+			<religion>Seventh-Day Adventist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Reunion</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Saint Helena</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Seychelles</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Anglican</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Solomon Islands</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Anglican</religion>
+			<religion>Baptist</religion>
+			<religion>Seventh-Day Adventist</religion>
+			<religion>United</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Tonga</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Tuvalu</country-name>
+		<religion-list>
+			<religion>Bahai</religion>
+			<religion>Seventh-Day Adventist</religion>
+			<religion>Church Tuvalu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Vanuatu</country-name>
+		<religion-list>
+			<religion>Catholic</religion>
+			<religion>Anglican</religion>
+			<religion>Seventh-Day Adventist</religion>
+			<religion>Presbyterian</religion>
+			<religion>Church Christ</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Wallis and Futuna</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Western Samoa</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Algeria</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+			<religion>Christian Jewish</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Angola</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Benin</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Botswana</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Burkina Faso</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Burundi</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cameroon</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cape Verde</country-name>
+		<religion-list>
+			<religion>Roman Catholicism</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Central African Republic</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Chad</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Comoros</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Sunni Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Congo</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Cote dIvoire</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Djibouti</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Egypt</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Coptic Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Equatorial Guinea</country-name>
+		<religion-list>
+			<religion>Christian Roman Catholic</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Eritrea</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Ethiopia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Ethiopian Orthodox</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Gabon</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Ghana</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Guinea</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Guinea-Bissau</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Kenya</country-name>
+		<religion-list>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Lesotho</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Liberia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Libya</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Madagascar</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Malawi</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Mali</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Mauritania</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Mayotte</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Morocco</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Jewish</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Mozambique</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Namibia</country-name>
+		<religion-list>
+			<religion>Lutheran</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Niger</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Nigeria</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Rwanda</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Sao Tome and Principe</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Senegal</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Sierra Leone</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Somalia</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>South Africa</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Sudan</country-name>
+		<religion-list>
+			<religion>Sunni Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Swaziland</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Tanzania</country-name>
+		<religion-list>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Gambia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Togo</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Tunisia</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Jewish</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Uganda</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Western Sahara</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Zaire</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Roman Catholic</religion>
+			<religion>Protestant</religion>
+			<religion>Kimbanguist</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Zambia</country-name>
+		<religion-list>
+			<religion>Christian</religion>
+			<religion>Muslim Hindu</religion>
+		</religion-list>
+	</country>
+	<country>
+		<country-name>Zimbabwe</country-name>
+		<religion-list>
+			<religion>Muslim</religion>
+			<religion>Christian</religion>
+		</religion-list>
+	</country>
+</religions>
